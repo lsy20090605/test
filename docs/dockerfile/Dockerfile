@@ -4,7 +4,7 @@
 ############################################################
 
 # Set the base image
-FROM localrepo:5000/myphp:1.0
+FROM docker.io/php:5.5.32-apache
 
 # File Author / Maintainer
 MAINTAINER Lawson 994008461@qq.com
